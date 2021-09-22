@@ -1,2 +1,3 @@
 examples are taken from-
+https://howtodoinjava.com/gang-of-four-java-design-patterns/
 https://howtodoinjava.com/design-patterns/
