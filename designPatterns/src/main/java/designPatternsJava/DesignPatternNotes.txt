@@ -1,0 +1,5 @@
+OO Principles:
+- Encapsulate what varies
+- Favour composition over inheritence
+- Program to interface not implementations
+- strive for loosely coupled designs between objects that interact
