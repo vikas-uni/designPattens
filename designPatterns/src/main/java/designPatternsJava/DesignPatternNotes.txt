@@ -3,3 +3,6 @@ OO Principles:
 - Favour composition over inheritence
 - Program to interface not implementations
 - strive for loosely coupled designs between objects that interact
+- Classes should be open for extension but closed for modification
+- Depend on abstraction, don't depend on concrete classes
+- principal of least knowledge, call immediate methods only, e.g- ref.abc() rather than ref.abc().def()
