@@ -6,3 +6,21 @@ OO Principles:
 - Classes should be open for extension but closed for modification
 - Depend on abstraction, don't depend on concrete classes
 - principal of least knowledge, call immediate methods only, e.g- ref.abc() rather than ref.abc().def()
+
+
+Patterns: 
+
+Decorator - Wraps an object to provide new behavior
+State     - Encapsulates state based behaviors and uses delegation to switch between behaviors
+Iterator  - Provides a way to traverse a collection of objects without exposing its implementation
+Facade	  - Simplifies interface of a set of classes
+Strategy  - Encapsulate interchangeable behaviors and uses delegation to decide which one to use
+Proxy	  - Wraps an object to control access to it
+Factory method - Subclasses decide which concrete class to create
+Adapter	  - Wraps an object and provides a different interface to it
+Observer  - Allows objects to be notified when state changes
+Template method - Subclasses decide how to implement steps in an algorithm
+Composite - Clients treat collection of objects and individual objects uniformly
+Sigleton - Ensure one and only one object is created
+Abstract Factory - Allows a client to create families of objects without specifying their concrete class
+Command - Encapsulates a request as an object
