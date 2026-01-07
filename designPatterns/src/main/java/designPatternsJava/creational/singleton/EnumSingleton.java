@@ -12,6 +12,6 @@ package designPatternsJava.creational.singleton;
 public enum EnumSingleton {
 	INSTANCE;
 	public void someMethod(String param) {
-		// some class member
+		System.out.println("enum singleton:" + param);
 	}
 }
